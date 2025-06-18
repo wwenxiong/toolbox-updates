@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "download_url": "https://raw.githubusercontent.com/wwenxiong/toolbox-updates/main/releases/v1.0.1/桌面工具箱.zip",
+    "download_url": "https://raw.githubusercontent.com/wwenxiong/toolbox-updates/main/releases/v1.0.1/default.zip",
     "changelog": "1. 修复了负荷监控工具的显示问题\n2. 优化了4G网络保障工具的性能\n3. 改进了更新机制，增加了文件完整性验证\n4. 添加了更新进度显示功能\n5. 增强了错误处理和回滚机制",
     "md5": "a1b2c3d4e5f678901234567890123456",
     "file_size": 52428800,
